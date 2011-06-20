@@ -1,8 +1,6 @@
 # argment
 
-## What it is
-
-argment is a tiny library whose end goal is to make argument-sniffing code like [this](https://github.com/jquery/jquery/blob/96501d38a935187461d45c40f17f8327b2e7cd91/src/ajax.js#L139) obsolete, by providing an easy way to declare what arguments a function expects.
+…a tiny library whose end goal is to make argument-sniffing code like [this](https://github.com/jquery/jquery/blob/96501d38a935187461d45c40f17f8327b2e7cd91/src/ajax.js#L139) obsolete, by providing an easy way to declare what arguments a function expects.
 
 ## How you use it
 

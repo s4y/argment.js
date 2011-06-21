@@ -9,7 +9,7 @@ argment is brand new! For the moment, it *augments* any function to take an opti
     function foo(a, b, c){
     	console.log(a, b, c);
     }
-    foo = argment(foo, ['a', 'b', 'c']);
+    foo = argment(['a', 'b', 'c'], foo);
     
     foo({ a: 'one', c: 'three' });
 

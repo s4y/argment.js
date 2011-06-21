@@ -19,3 +19,5 @@ function argment(params, required, callback){
 		return callback.apply(this, args);
 	};
 }
+
+if (module && module.exports) { module.exports = argment; }
